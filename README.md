@@ -4,3 +4,4 @@ Text: Displays text on the screen.
 ScrollView: Enabled scrolling functionality for the categories.
 TextInput: Allows users to input text through a keyboard. 
 StyleSheet: Used to define the styling of the interface.
+![Screenshot 1](/Screenshots/photo_2024-06-02 22.18.50.jpeg)
